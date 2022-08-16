@@ -1,0 +1,9 @@
+numpy
+pandas
+imageio
+opencv-python
+torch
+torchvision
+torchaudio
+gdown
+git+https://github.com/facebookresearch/detectron2.git
